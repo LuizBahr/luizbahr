@@ -1,4 +1,4 @@
-## Olá, eu me chamo Luiz Bahr e sou um estudante ativo no ramo de Tecnologia e Programação
+## Olá, eu me chamo Luiz Bahr e sou Desenvolvedor Júnior na empresa Hering atuando diariamente em Delphi, aqui estarei postando meus projetos de estudos pessoais
 
 <div align="center">
   <a href="https://github.com/luizbahr">
