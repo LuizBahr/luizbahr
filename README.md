@@ -1,4 +1,4 @@
-## Olá, eu me chamo Luiz Bahr e sou Desenvolvedor Júnior na empresa Hering atuando diariamente em Delphi, aqui estarei postando meus projetos de estudos pessoais
+## Olá, eu me chamo Luiz Bahr e sou Desenvolvedor Júnior na empresa Hering atuando diariamente em Delphi, .Net Core e PL/SQL, aqui estarei postando meus projetos de estudos pessoais
 
 <div align="center">
   <a href="https://github.com/luizbahr">
